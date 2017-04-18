@@ -1,0 +1,11 @@
+c:\users\kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\bin\Debug\Cookie.exe.config
+c:\users\kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\bin\Debug\Cookie.exe
+c:\users\kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\bin\Debug\Cookie.pdb
+c:\users\kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\obj\Debug\Cookie.csprojResolveAssemblyReference.cache
+c:\users\kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\obj\Debug\Cookie.Properties.Resources.resources
+c:\users\kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\obj\Debug\Cookie.csproj.GenerateResource.Cache
+c:\users\kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\obj\Debug\Cookie.exe
+c:\users\kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\obj\Debug\Cookie.pdb
+C:\Users\Kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\obj\Debug\Cookie.DataModule.resources
+C:\Users\Kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\obj\Debug\Cookie.BrandForm.resources
+C:\Users\Kelvin\documents\visual studio 2015\Projects\Cookie\Cookie\obj\Debug\Cookie.MainForm.resources
